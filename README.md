@@ -2,7 +2,7 @@
 
 A Boilerplate application for building REST APIs using node, express and mongoose
 
-## Notes
+## Notes--
 
 - commit messages are validated by [this](https://www.conventionalcommits.org) convention.
 - [Airbnb's javascript style guide](https://github.com/airbnb/javascript) and [eslint config](https://www.npmjs.com/package/eslint-config-airbnb-base) is followed.
